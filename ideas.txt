@@ -1,0 +1,14 @@
+2.5d (no rotation, but the buildings have height and depth) perspective
+3d (?) perspective
+drag n drop building, rivers lakes, geographic features
+have each feature as a "layer"
+
+layer:
+a village layer stacked on a mountain layer can make a mountain village
+a road stacked on a mountain layer can make a winding mountain road
+an interstate stacked on a mountain layer can make a tunnel
+an interstate stacked on a village can make a 
+
+modes:
+
+grid: layers can only neatly fit inside a grid.
